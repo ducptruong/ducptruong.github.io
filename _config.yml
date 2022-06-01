@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Duc P. Truong"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duc P. Truong"
-  avatar           : profile.jpg
+  name             : ""
+  avatar           : "profile.jpg"
   bio              : 
   location         : 
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kIhlBJkAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Duc-Truong-3"
+  email            : "ductruongecon@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Duc-Truong-3"
   uri              :
   bitbucket        :
   codepen          :
